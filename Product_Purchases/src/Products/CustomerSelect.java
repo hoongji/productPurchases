@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.awt.event.ActionEvent;
 
 public class CustomerSelect extends JFrame {
-
+// 회원 정보 조회 
 	private JPanel contentPane;
 	private JTable table;
 
